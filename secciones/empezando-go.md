@@ -96,6 +96,7 @@ func saluda() {
 }
 ~~~
 
+---
 ## Comentarios
 Para hacer los comentarios en Go se hacer con `//`, esto es para los cometarios de línea, para los comentarios de múltiples líneas se abre con `/*` y se cierra con `*/`. 
 
